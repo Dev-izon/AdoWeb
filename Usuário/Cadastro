@@ -1,1 +1,25 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="../css/login.css">
+<title>Cadastro</title>
+</head>
+<body>
+    
+    <div class="page">
+        <div class="card">
+            <form>
+                <h2>Cadastro</h2>
+                <p>Insira seus Dados</p>
+                <input class="campo" type="name" placeholder="Nome Completo">
+                <input class="campo" type="email" placeholder="Email">
+                <input class="campo" type="password" placeholder="Senha">
+                <a href="senha.html">Esqueci minha senha</a>
+                <input class="btn" type="submit" value="Criar Conta">
+                <p>Já possui uma conta ?<a href="login.html"> Logue aqui</a>.</p>
+            </form>
+        </div>
 
+    </div>
+</body>
+</html>
